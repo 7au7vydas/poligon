@@ -1,2 +1,2 @@
-# poligon
+# Poligon
 Repo for java based 2D multiplayer shooter game. 
